@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(56, 37, 21);
+    color: rgb(255, 255, 255);
+}
+
+.formss{
+    /* background-color: rgb(12, 160, 205); */
+    
+    padding: 60px;
+    height: 70vh;
+    color: rgb(255, 255, 255);
+}
+
+.formdata{
+    /* background-color: rgb(17, 78, 128); */
+    
+    margin-left: 60px;
+    margin-right: 60px;
+    height: 70vh;
+    color: rgb(255, 255, 255);
+
+}
+
+label{
+
+    height: 100px;
+
+}
+
+
+ input[type="text"], input[type="email"], input[type="file"] {
+
+    /* background-color: rgb(227, 157, 58); */
+    
+    margin: 10px ;
+    color: rgb(255, 255, 255);
+    
+
+}
+
+
+
+
+
+
+
+/* input[type=text]{
+    background-color: aquamarine;
+    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+   
+} */
